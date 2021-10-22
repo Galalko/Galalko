@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.datadriveninvestor.com%2Fthe-most-hilarious-code-comments-ever-bae3cb1030b5&psig=AOvVaw1doisAXkW_SSF6nkkTbU9Z&ust=1635026393919000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjvgMSE3_MCFQAAAAAdAAAAABAK
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.datadriveninvestor.com%2Fthe-most-hilarious-code-comments-ever-bae3cb1030b5&psig=AOvVaw1doisAXkW_SSF6nkkTbU9Z&ust=1635026393919000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjvgMSE3_MCFQAAAAAdAAAAABAK)
 
 
 **Galalko/Galalko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
