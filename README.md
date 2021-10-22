@@ -28,5 +28,5 @@ You can find me  on [![LinkedIn][2.2]][2].
 
 [2]: https://www.linkedin.com/in/ahmed-hassan-bb1915177/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galalko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galalko)](https://github.com/anuraghazra/github-readme-stats)<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galalko&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
